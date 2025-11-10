@@ -1,3 +1,4 @@
+import sys
 if len(sys.argv) != 6:
     print("Please provide marks of 5 subjects as command line arguments.")
     sys.exit()
